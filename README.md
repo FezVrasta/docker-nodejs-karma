@@ -1,6 +1,7 @@
 A [Docker](https://www.docker.com/) container with
 
 - node 0.12
+- grunt-cli (latest, installed globally)
 - chrome for karma headless testing
 
 
